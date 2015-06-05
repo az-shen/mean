@@ -1,3 +1,4 @@
+#this is a mean function
 def mean(num_list):
     for num in num_list:
         if isinstance(num,complex):
